@@ -8,7 +8,7 @@ Este es un portafolio hecho en HTML, CSS y JavaScript.
 *[Portafolio Web](http://127.0.0.7:5500/index.html)
 
 ## Ver ejemplo en vivo
-- [githubpages](githubpage)
+- [https://tatian04.github.io/Mi-portafolio/](https://tatian04.github.io/Mi-portafolio/)
 
 ## Instalación 
 Este proyecto no necesita instalación. Simplemente abre la carpeta o haz doble click en el .html
